@@ -1,2 +1,2 @@
-# portfolio
-개인 포트폴리오
+# Bentoion
+Bento Grid를 활용한 Notion
